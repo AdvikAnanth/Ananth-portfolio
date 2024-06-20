@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ananth-portfolio/static/css/main.40b97d1f.css",
+    "main.js": "/Ananth-portfolio/static/js/main.8374d7f0.js",
+    "static/media/Ananth.jpg": "/Ananth-portfolio/static/media/Ananth.71e06594bdc018b7b018.jpg",
+    "static/media/Farmer.jpeg": "/Ananth-portfolio/static/media/Farmer.bc8d3953eac6c769ed98.jpeg",
+    "static/media/Crud.jpeg": "/Ananth-portfolio/static/media/Crud.c4ebcccbb9e8fd24a53d.jpeg",
+    "static/media/React.png": "/Ananth-portfolio/static/media/React.f578e50627b85c043065.png",
+    "index.html": "/Ananth-portfolio/index.html",
+    "main.40b97d1f.css.map": "/Ananth-portfolio/static/css/main.40b97d1f.css.map",
+    "main.8374d7f0.js.map": "/Ananth-portfolio/static/js/main.8374d7f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40b97d1f.css",
+    "static/js/main.8374d7f0.js"
+  ]
+}
